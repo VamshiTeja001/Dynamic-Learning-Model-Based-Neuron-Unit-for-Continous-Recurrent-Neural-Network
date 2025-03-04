@@ -1,0 +1,1 @@
+# Dynamic-Learning-Model-Based-Neuron-Unit-for-Continous-Recurrent-Neural-Network
