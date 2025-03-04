@@ -6,6 +6,7 @@ Optimized performance with a preloaded sigmoid lookup table, reducing computatio
 Enabled hardware acceleration for neuroevolutionary algorithms, facilitating faster processing in FPGA-based or ASIC implementations.
 
 This neuron follows the given differential equation:
+
 ![image](https://github.com/user-attachments/assets/33be0aec-2a27-4cae-9e58-7b25757edc1e)
 
 
@@ -58,9 +59,13 @@ i
 𝑥
 )
 σ(x) is the sigmoid activation function.
+
+
 Implementation Details:
 Uses 32-bit IEEE 754 floating-point representation.
 Euler method is used for numerical integration.
+
+
 Inputs:
 clk: Clock signal.
 rst: Reset signal.
@@ -117,6 +122,8 @@ i
 ​
  (t).
 dt: Time step for integration.
+
+
 Outputs:
 y_next: Next state 
 𝑦
