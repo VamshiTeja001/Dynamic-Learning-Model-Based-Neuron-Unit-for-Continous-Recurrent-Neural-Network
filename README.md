@@ -138,3 +138,13 @@ y
 i
 ​
  (t+dt).
+
+
+
+Results: 
+Vivado Simulation Result-
+![image](https://github.com/user-attachments/assets/ba213086-7bd5-42c0-89cc-3b2a25d59e52)
+
+Python Equivalent Result:
+![image](https://github.com/user-attachments/assets/77509e00-6490-4640-9468-0dbd0b0ab296)
+
